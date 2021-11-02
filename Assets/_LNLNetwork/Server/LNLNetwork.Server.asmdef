@@ -1,0 +1,16 @@
+{
+    "name": "LNLNetwork.Server",
+    "rootNamespace": "LNLNetwork.Server",
+    "references": [
+        "GUID:210e5d69be4d38879b3a7cb1e3e96f1f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
